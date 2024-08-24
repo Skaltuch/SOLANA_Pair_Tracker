@@ -9,11 +9,14 @@ This project detects newly created pairs on the Solana blockchain and sends upda
 - Connects to Solana's WebSocket for real time updates
 - Identifies new token pairs using transaction logs
 - Retrieves token information and supply
+
 -Receive latest pairs on the telegram bot
+
+
 ## Setup
 
 1. ** To Clone the repository:**
 
-   ```bash
+   ***bash
    git clone https://github.com/Skaltuch/SOLANA_Pair_Tracker.git
-   cd Solana_Pair_Tracker
+   
